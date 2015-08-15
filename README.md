@@ -17,10 +17,9 @@ Feel free to access [my portfolio](http://portfolio.ceo1212.com).
 here is what I really want to accomplish in **India**.
 
 ### crazy good software
-
-*rapid development
-+Tested
--24/7support
+* rapid development
++ Tested
+- 24/7support
 
 ### Reasons to choose us
 1. Price
